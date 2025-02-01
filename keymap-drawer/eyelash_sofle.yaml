@@ -63,7 +63,7 @@ layers:
   - LANG1
   - layer1
   - $$mdi:apple-keyboard-shift$$
-  - RIGHT GUI
+  - RGUI
   layer1:
   - (
   - )
